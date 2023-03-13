@@ -1,2 +1,9 @@
-# quantum-computing
-Includes work with Qiskit IBM code in Python's Qiskit module. Current work includes Grover searches with multiple solutions and with satisfiability (SAT) problems. Most code is in Jupyter notebook format with thorough explanations along with comments in the actual code.
+# Quantum-Computing
+IBM Qiskit code in Python
+
+Current work includes:
+- Grover search w/ multiple solutions 
+- Grover search satisfiability (SAT) problems
+- Comparisons between simulator and actual IBM quantum computers
+
+Most code is in Jupyter notebook format and includes explanations along with comments.
