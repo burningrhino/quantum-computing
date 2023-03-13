@@ -3,7 +3,7 @@ IBM Qiskit code in Python
 
 Current work includes:
 - Grover search w/ multiple solutions 
-- Grover search satisfiability (SAT) problems
-- Comparisons between simulator and actual IBM quantum computers
+- Phase estimation (quantum counting) on a SAT problem
+- Simulator vs actual IBM quantum computer results
 
-Most code is in Jupyter notebook format and includes explanations along with comments.
+The quantum counting code includes in-depth explanations in addition to comments.
